@@ -1,0 +1,34 @@
+body{
+	
+  font: 500 14px/16px Time new Roman,san-serif;
+   margin:10px auto 20px;
+   width:350px;
+   height:610px;
+  padding:5px 40px;	
+  box-shadow:0 0 10px 5px rgba(221, 221, 221, 1);/* тень*/
+ 
+}
+.name {
+	 text-align: center;
+
+}
+.center {
+	
+    border-radius:10px;
+	margin:0px auto;
+}
+.targer{
+    border-top :1px solid black;
+	border-bottom:1px solid black;
+	line-height: 1.5;
+}
+.contact{
+	line-height: 0.5;
+	padding: 5px ;
+}
+
+.deviz{
+	border-top :2px solid grey;
+	line-height: 0.5;
+	padding: 5px;
+}
